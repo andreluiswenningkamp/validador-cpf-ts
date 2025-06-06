@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "name": "typescriptcpf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsc && node ./dist/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreluiswenningkamp/validador-cpf-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreluiswenningkamp/validador-cpf-ts/issues"
+  },
+  "homepage": "https://github.com/andreluiswenningkamp/validador-cpf-ts#readme"
+}
